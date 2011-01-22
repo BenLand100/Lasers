@@ -1,0 +1,22 @@
+This was created out of boredom and ended up being pretty nice. Basically, 
+right click the black space to see a list of things you can do. The ultimate 
+goal is to design a logic circuit in laser form. It can also conveniently copy 
+its data to the clipboard in text form, so I can give you some interesting 
+examples to paste into it if you're curious (copy the whole line after the 
+description that ends with a colon):
+
+AND Gate:
+LASERSv2:H4sIAAAAAAAAAGNgYGBhYExhgACu////RwJxHgMKwJBvRZNPRZLPAeIqFOn//0FqkpDUNAJxJaoRQMyExmaEYmYAPFwc2KUAAAA=
+
+XOR Gate:
+LASERSv2:H4sIAAAAAAAAAGNgYOBmYExhgACu////3wbi5wwoAEP+L5p8KpL8R5B++81SJ0+khtSDRf//x6bm7/4Dy/U1G25kIqnJgaphBcrfAuKLqNY4/gepQ1F1G0gLoapygqhKgtkHxGzofmJkwFTwF11BKpICfaCCTyj2QFycgqRGCkMNkluBWA/qXiRp//8Qc5ihAkxQzA5xApgNkmMDYk6oGAcA8gV4tbQBAAA=
+
+JK Flipflop:
+LASERSv2:H4sIAAAAAAAAAI2USyiEURTH7zcY4xUixoYZNB7jFSslZppZoURKFlIaRSazsqApFrK1sGLKhqyEPTF5TNlamShZ2WCLLD7nzncm954zHl/9p/vd85vz+s69QogOYYSE9eSDskzT3PLZR7rzl+dc1rYxpdgjYD8UymOoABiToM2+D/fnaLDViYQGXKaAz53w4Jp/IQ1MK8ABKKaFME35S5m7DIwa6IIyNJPbv4BX2QxarNotGwD3Z0+njs75+nVEaJqJ39IEOYG5okFompoTmWZIAV4ZoGQhrG+qR8jcrMTZddD//uYpzFRqG0+TfdYjWgbthQ7wLJKUEYKXSqKwUn8NIqyG64zBSyVZaEnEQHt/2E+IPYyLHLAtgm5084ApIFGNWgLt6lS/RakFV7ERJYcFC77PwKhNCcq8fbbhhthKY5UF6UCrdBJ3PI5OnG+Upf2oQIBFIUA7O9dkxMa5B2aP9T3vR8dWI9tIqHUGfphzlQn+Y0BknETclowud7lT38kwOMBmXcnU6JUHwmdfz5t8GO9BhNrJLaoFmGf3BjltL6xVBp9BfcaU6YJ1szxtmjl7yBWO8DGUw3qs+wkQCra88lKn7mZmU6AQRd9tEqWgWlx7QHW4bgDl4boY1Aiy4bsD1ITvzSAv+pS2AlALru2gEuTkjNaAytFWAapEm7zgqkFy0LNxzwVyg3JBTvxP1heEknWgIAcAAA==
+
+SR Flipflop:
+LASERSv2:H4sIAAAAAAAAAGNgYBBnYExhgACu////nwLiEwwoAEP+AYosA2MOlMkKld+Eqj34P8P//wyMqUimbATihyiKgCoYUNU8ALnE/oHslicv3GrBotjV3N//4D6jd/KdSCRzkF38GYiv4HIxEFsA5fejuJglMCmxCOLoJJhBQKyAYRAjkmuAmBNDAZprgNgKiCX2f9z2cNLrfS5Q1yDLW4LMQJZH881pIM2D4lpMeRU0eeQQ24yhH+JG5DgEmWGJakQQZhyC4o+HQPyA1Cgjxw8DZvx8AYUImouR4wfkEmZU6UDMyFFEN4WRATVyuDAUYHr8NRAvR7GKOzhIIS0nsyAtJ7/gP8TxHAgLGFigNCPUrUJQtggQs0HZHFDLGaH+4Iay+RggMQFiCwAxL5QtCABDxvtXlQMAAA==
+
+Enjoy!
+~Benjamin Land
+
